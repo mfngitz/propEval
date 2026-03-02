@@ -1,2 +1,2 @@
-# PROPS.CASH-Data_Analysis
+# Data Analysis Project
 Python tool that fetches NBA prop data from props.cash, including projections and trend data normally restricted to premium users. The data is processed through a custom algorithm that scores and ranks player props based on edge, consistency, and matchup indicators.
