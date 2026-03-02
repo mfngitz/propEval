@@ -140,7 +140,7 @@ def main():
                         f"Kelly {r['kelly']}"
                     )
 
-                input("\nPress Enter to Reload:")
+                input("\nEnter to Reload:")
                 break
 
 
