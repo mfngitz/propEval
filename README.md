@@ -12,7 +12,7 @@ The data is processed through a custom scoring model that ranks props based on e
 
 ## How To Use
 
-1. Run `base.py`
+1. Run `main.py`
 2. Select a game from today’s schedule
 3. Choose a stat type (PTS, REB, AST, PR, PA, RA, PRA)
 4. View ranked props with probability, EV, and Kelly sizing
